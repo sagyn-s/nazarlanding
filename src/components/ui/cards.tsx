@@ -5,11 +5,11 @@ export const Cards = () => {
     return (
       <div className="h-[30rem] md:h-[50rem] w-full flex items-center justify-center relative">
         <div className="h-[20rem] md:h-[30rem] relative w-full flex items-center justify-center">
-        <img
+        {/* <img
               src="./img4.png"
               className="rounded-md text-sm h-full w-full"
               alt="thumbnail"
-            />
+            /> */}
         </div>
       </div>
     );
