@@ -1,4 +1,3 @@
-import React from "react";
 
 // interface AdvantageItem {
 //   Advantage: string;
@@ -25,7 +24,7 @@ export const Table = () => {
         </thead>
         <tbody>
             <tr>
-              <td className="border px-4 py-2">Tracking students' emotions</td>
+              <td className="border px-4 py-2">Tracking  students' emotions</td>
               <td className="border px-4 py-2">✓ Uses Face Emotion Recognition (FER)</td>
               <td className="border px-4 py-2">❌ Not specialized in emotion tracking</td>
               <td className="border px-4 py-2">✓ Provides Emotion SDK for analysis</td>
